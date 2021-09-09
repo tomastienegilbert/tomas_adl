@@ -1,16 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: rgb(2, 11, 36);
     color: rgb(199, 185, 165);
 }
 
-.bg-transparent {
-    background-color: transparent;
-}
 
-.nav-bg-scrolled {
-    background-color: rgba(6, 6, 87, 0.397);
-}
+/* Logo en navbar y footer */
 
 .logo-svg {
     width: 2em;
@@ -21,6 +20,16 @@ body {
     font-family: 'Permanent Marker', cursive;
 }
 
+
+/* Color de navbar al scrollear */
+
+.bg-transparent.scrolled {
+    background-color: rgba(6, 6, 87, 0.474) !important;
+}
+
+
+/* Color  de fondo alterno*/
+
 .bgc-2 {
     background-color: rgb(64, 64, 158);
 }
@@ -29,12 +38,18 @@ body {
     background-color: rgb(49, 37, 92);
 }
 
+.img-card-1 {
+    max-height: 168.688px
+}
+
+
+/* Footer */
+
+.social {
+    display: inline;
+}
+
 .social-icon {
     font-size: 2em;
+    color: blanchedalmond;
 }
-
-
-/* Fuente alternativa {
-font-family: 'Permanent Marker', cursive;
-}
-*/
