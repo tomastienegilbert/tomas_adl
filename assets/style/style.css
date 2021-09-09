@@ -29,6 +29,10 @@ body {
     background-color: rgb(49, 37, 92);
 }
 
+.social-icon {
+    font-size: 2em;
+}
+
 
 /* Fuente alternativa {
 font-family: 'Permanent Marker', cursive;
