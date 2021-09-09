@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(2, 11, 36);
+    color: rgb(199, 185, 165);
+}
+
+.bg-transparent {
+    background-color: transparent;
+}
+
+.nav-bg-scrolled {
+    background-color: rgba(6, 6, 87, 0.397);
+}
+
+.logo-svg {
+    width: 2em;
+    height: 2em;
+}
+
+.logo-txt {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.bgc-2 {
+    background-color: rgb(64, 64, 158);
+}
+
+.icon {
+    background-color: rgb(49, 37, 92);
+}
+
+
+/* Fuente alternativa {
+font-family: 'Permanent Marker', cursive;
+}
+*/
